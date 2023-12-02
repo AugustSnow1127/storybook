@@ -26,35 +26,14 @@ export const VersionTabs = {
   },
 };
 
-export const SmallVersionTabs = {
-  args: {
-    size: 'small',
-    tabsType: 'ScrollableVersionTabs',
-  },
-};
-
 export const SubTabs = {
   args: {
     tabsType: 'ScrollableSubTabs',
   },
 };
 
-export const SmallSubTabs = {
-  args: {
-    size: 'small',
-    tabsType: 'ScrollableSubTabs',
-  },
-};
-
 export const StepTabs = {
   args: {
-    tabsType: 'ScrollableStepTabs',
-  },
-};
-
-export const SmallStepTabs = {
-  args: {
-    size: 'small',
     tabsType: 'ScrollableStepTabs',
   },
 };
